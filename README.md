@@ -140,6 +140,8 @@ _✨ 多功能的 B 站视频解析工具 ✨_
 
 </details>
 
+</details>
+
 ## ⚙️ 配置
 
 在 nonebot2 项目的`.env`文件中添加下表中的配置, 配置均为**非必须项**
@@ -380,7 +382,7 @@ BOT: ...
 -   [hamo-reid](https://github.com/hamo-reid) 为 style_blue 绘制了界面
 -   [dynamicrender](https://pypi.org/project/dynrender-skia/) 提供 t2i 和动态渲染
 -   [ALC](https://github.com/nonebot/plugin-alconna) 提供跨平台支持
--   [凛雅](https://github.com/linya64/bili) 提供长久QQ免费bili推送成品BOT服务
+-   [凛雅](https://github.com/linya64/bili) 提供长久QQ免费bili推送姬 成品BOT服务
 
 ## ⏳ Star 趋势
 
