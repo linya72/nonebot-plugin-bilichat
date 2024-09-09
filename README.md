@@ -120,6 +120,13 @@ _✨ 多功能的 B 站视频解析工具 ✨_
 
 </details>
 
+
+打开 nonebot2 项目根目录下的 `pyproject.toml` 文件, 在 `[tool.nonebot]` 部分追加写入
+
+    plugins = ["nonebot_plugin_bilichat"]
+
+</details>
+
 <details>
 <summary>懒人部署法</summary>
 如果实在懒得折腾可以点击下面群号加群询问成品BOT
@@ -130,12 +137,6 @@ _✨ 多功能的 B 站视频解析工具 ✨_
 <a href="https://jq.qq.com/?_wv=1027&k=7LWx6q4J">
   <img src="https://img.shields.io/badge/QQ%E7%BE%A4-720053992-orange?style=flat-square" alt="QQ Chat Group">
 </a>
-
-</details>
-
-打开 nonebot2 项目根目录下的 `pyproject.toml` 文件, 在 `[tool.nonebot]` 部分追加写入
-
-    plugins = ["nonebot_plugin_bilichat"]
 
 </details>
 
